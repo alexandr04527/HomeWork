@@ -1,0 +1,25 @@
+/* *{
+    box-sizing: content-box;
+} */
+
+.main {
+    background-color: blanchedalmond;
+    overflow: auto;
+    border-radius: 20px 0px 0px 20px;
+    padding: 5px;
+    width: 1000px;
+    height: 500px;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.block {
+    background-color: rgb(235, 180, 180);
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    border-radius: 20px;
+    overflow: hidden;
+    padding: 10px;
+    margin: 5px 5px 20px 20px;
+    border: 1px solid rgb(0, 0, 0);
+}
